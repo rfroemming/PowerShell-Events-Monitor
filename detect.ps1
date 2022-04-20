@@ -107,15 +107,13 @@ function Send-Email($content)
 ## Send Email ##
 ################
 
-    $userName = "honey.audit.project@gmail.com"
-    $password = 'nscc@2022'
+    $userName = "#### your email ####@gmail.com"
+    $password = '#### your password ####'
     $pwdSecureString = ConvertTo-SecureString -Force -AsPlainText $password
 
     $Param = @{
-        From = "honey.audit.project@gmail.com"
-        To = "honey.audit.project@gmail.com"
-        Cc = "w0432947@nscc.ca"
-        #Cc = "w0432947@nscc.ca" , "w0451908@nscc.ca" , "W0433890@nscc.ca"
+        From = "#### your email ####@gmail.com"
+        To = "#### your email ####@gmail.comm"
         Subject = "RDP Connection on Honey Server"
         SMTPServer = "smtp.gmail.com"
         UseSsl = $true
