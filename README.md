@@ -13,3 +13,6 @@ Schedule the script on task manager to run every day, and collect all events gen
 - User Login/Authentication Events: 4624, 4625 
 - Object Monitoring (files and folders): 4663,4656 
 
+
+![image](https://user-images.githubusercontent.com/104074960/164303694-aeab83d0-87f4-48fe-a91d-ec75d37d1d41.png)
+
