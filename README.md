@@ -19,4 +19,5 @@ Schedule the script on task manager to run every day, and collect all events gen
 ## detect.ps1
 
 Schedule on task manager to run every minute to check if there is an active RDP connection. The script will send an email when detected a connection.
+
 ![image](https://user-images.githubusercontent.com/104074960/164304366-7290f335-4c81-4ad3-9962-8af936f62d16.png)
