@@ -2,7 +2,7 @@
 
 ## report.ps1
 
-This script allows administrators to monitor Windows events, generating an HTML report and sent through email.  
+This script allows administrators to monitor Windows events, generating an HTML report to be sent by email.  
 Schedule the script on task manager to run every day, and collect all events generated such as: 
 
 - User Rights Changes: 4704, 4670 
